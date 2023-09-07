@@ -15,9 +15,9 @@ Viewing sample results:
   
 Note: GitHub allows for preview of PDF files  
 
-For original input click on 'sample_input.pdf'  
+- For original input click on 'sample_input.pdf'  
 
-For program's output click on 'result.pdf'  
+- For program's output click on 'result.pdf'  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
