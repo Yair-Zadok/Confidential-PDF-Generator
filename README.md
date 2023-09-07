@@ -23,7 +23,7 @@ Instructions:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Viewing sample results:  
-Note: Github allows for preview of PDF files  
+Note: GitHub allows for preview of PDF files  
 
 For original input click on 'sample_input.pdf'  
 
