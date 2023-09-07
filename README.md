@@ -1,5 +1,5 @@
 # Confidential-PDF-Generator
-This PDF tool removes selectable text from PDF files
+This PDF tool makes text unselectable to stop tampering
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
