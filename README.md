@@ -27,7 +27,7 @@ Instructions:
 2. Run the following command:
    pip install -r requirements.txt
 3. Place your PDF file in the folder 'Input_Images'
-4. Click play in VS Code or your IDE of choice
+4. Click play in VS-Code or your IDE of choice
 5. A file called result.pdf will be generated!
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
