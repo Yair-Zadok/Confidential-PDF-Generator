@@ -1,5 +1,5 @@
 # Confidential-PDF-Generator
-This PDF tool makes text unselectable to stop tampering
+This PDF tool makes text unselectable to make tampering harder
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
