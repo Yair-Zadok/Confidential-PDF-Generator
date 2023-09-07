@@ -12,6 +12,7 @@ The program works by first converting each individual page into a PNG file, re-s
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Viewing sample results:  
+  
 Note: GitHub allows for preview of PDF files  
 
 For original input click on 'sample_input.pdf'  
